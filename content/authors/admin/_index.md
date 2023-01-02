@@ -6,21 +6,24 @@ title: David McCoy
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Environmental Health Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of California, Berkeley
+  url: https://publichealth.berkeley.edu/academics/environmental-health-sciences/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: PhD Candidate in Environmental Biostatistics, University of California, Berkeley
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data adaptive target parameters
+- Mixed Exposures
+- Mediation
+- Nonparametric and semiparametric inference
+- Computational biology
+- Statistical software development
 
 # Education to show in About widget
 education:
