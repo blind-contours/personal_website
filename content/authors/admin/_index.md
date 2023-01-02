@@ -82,8 +82,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm a PhD candidate in the Division of Environmental Health Sciences at the University of
+California, Berkeley under the supervision of [Alan Hubbard](https://publichealth.berkeley.edu/people/alan-hubbard/) and [Martyn Smith](https://publichealth.berkeley.edu/people/martyn-smith/). My work revolves around developing assumption-lean methods for the statistical analysis of
+mixed exposure data. That is, in most realistic exposure settings humans are exposed to a mixture of chemicals which modify biological pathways which lead to disease states. I develop statistical methods to understand what parts of a mixed exposure cause disease and through which pathways. I collaborate with epidemiologists, biologists, and medical doctors to develop sound statistical approaches to answer real world problems. 
