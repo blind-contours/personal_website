@@ -69,7 +69,7 @@ related:
 security:
   _merge: deep
 appearance:
-  theme_day: mr robot
-  theme_night: mr robot
+  theme_day: forest
+  theme_night: forest
   font: minimal
   font_size: L
