@@ -44,7 +44,7 @@ Worked with medical doctors to develop research plans for study development. Gen
   company_url = "https://superfund.berkeley.edu/"
   location = "Berkeley, CA, United States"
   date_start = "2019-10-01"
-  date_end = "2023-01-01"
+  date_end = ""
   description = """
   Develop assumption-lean statistical inference methods for mixture effect
   discovery. Create new semi-parametric definitions for interaction, effect modification
