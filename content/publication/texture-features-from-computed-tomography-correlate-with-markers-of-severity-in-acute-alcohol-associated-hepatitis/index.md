@@ -1,10 +1,15 @@
 ---
 title: Texture features from computed tomography correlate with markers of
   severity in acute alcohol-associated hepatitis
-subtitle: "Michele M. Tana, David McCoy, Briton Lee, Roshan Patel, Joseph Lin &
-  Michael A. Ohliger "
+subtitle: ""
 publication_types:
   - "0"
+authors:
+  - Michele M. Tana
+  - David McCoy
+  - Briton Lee
+  - Roshan Patel
+  - Joseph Lin & Michael A. Ohliger
 abstract: >+
   The aim of this study was to use texture analysis to establish quantitative
   CT-based imaging features to predict clinical severity in patients with acute
