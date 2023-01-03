@@ -10,4 +10,9 @@ image:
   filename: cvtreemle_sticker-1-.png
   focal_point: Smart
   preview_only: false
+tags:
+- CVtreeMLE
+- R packages
+date: 2023-01-01
+external_link: "https://github.com/blind-contours/CVtreeMLE"
 ---
